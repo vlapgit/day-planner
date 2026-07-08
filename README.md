@@ -1,11 +1,13 @@
-# day-planner
-A minimalist, dark-themed daily planner that forces accountability instead of letting tasks quietly slide. Built around time blocks, not to-do lists — every task has a start time, an end time, and a real consequence if you miss it.
+# day-planner - BtWAt
+A minimalist, dark-themed daily planner BtWAt (Boring tasks, With A twist) that forces accountability instead of letting tasks quietly slide. Built around time blocks, not to-do lists — every task has a start time, an end time, and a real consequence if you miss it.
 
 Features
 
 
 Time-blocked scheduling — Tasks are scheduled in explicit time ranges (e.g. 1:00 am – 2:00 am), not just a flat list. This makes your day a timeline, not a backlog.
 Live task states — Each task is visually color-coded by status:
+
+<img width="1080" height="2252" alt="ssofBtWAt" src="https://github.com/user-attachments/assets/40ac96cf-a590-4c49-9c7c-7f8d0de2c7f0" />
 
 ✅ Completed — checked off, struck through, dimmed
 🔴 Missed — red border and red timestamp if the time window passed with no completion
