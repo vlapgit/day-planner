@@ -10,8 +10,11 @@ Live task states — Each task is visually color-coded by status:
 <img width="1080" height="2252" alt="ssofBtWAt" src="https://github.com/user-attachments/assets/40ac96cf-a590-4c49-9c7c-7f8d0de2c7f0" />
 
 ✅ Completed — checked off, struck through, dimmed
+
 🔴 Missed — red border and red timestamp if the time window passed with no completion
+
 🔵 Running now — blue highlight with a live countdown (e.g. 33m left) for whatever's active in real time
+
 ⚪ Upcoming — future tasks shown in neutral gray
 
 
